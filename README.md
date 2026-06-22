@@ -4,7 +4,7 @@ Repository ini berisi perjalanan belajar pemrograman saya, mulai dari materi Jav
 
 ## 📁 Struktur Repository
 
-```text
+```text id="7tf8m2"
 📂 learning-code-journey
 │
 ├── 📂 01_Learn-Javascript
@@ -22,8 +22,14 @@ Repository ini berisi perjalanan belajar pemrograman saya, mulai dari materi Jav
 │       ├── ⚡ 02_dom.js
 │       └── 📝 02_dom.md
 │
-└── 📂 project-cafe
-    ├── 🌐 index.html
-    ├── 🎨 index.css
-    └── ⚡ index.js
+└── 📂 Project
+    │
+    ├── 📂 Project-Cafe
+    │   ├── 🌐 index.html
+    │   ├── 🎨 index.css
+    │   └── ⚡ index.js
+    │
+    └── 📂 To-Do-List
+        ├── 🌐 To-Do-List.html
+        └── ⚡ To-Do-List.js
 ```
