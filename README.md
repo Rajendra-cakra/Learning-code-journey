@@ -1,10 +1,10 @@
 # Learning Code Journey
 
-Repository ini berisi perjalanan belajar pemrograman saya, mulai dari materi JavaScript dasar hingga project nyata.
+Repository ini berisi perjalanan belajar pemrograman saya, mulai dari materi JavaScript, python hingga project nyata.
 
 ## 📁 Struktur Repository
 
-```text
+```
 📂 learning-code-journey
 │
 ├── 📂 01_Learn-Javascript
@@ -22,6 +22,12 @@ Repository ini berisi perjalanan belajar pemrograman saya, mulai dari materi Jav
 │       ├── ⚡ 02_dom.js
 │       └── 📝 02_dom.md
 │
+├── 📂 02_Learn_python
+│   └── 🐍 latihan.py
+│
+├── 📂 Learn_github
+│   └── 🐙 git.md
+|
 └── 📂 project-cafe
     ├── 🌐 index.html
     ├── 🎨 index.css
