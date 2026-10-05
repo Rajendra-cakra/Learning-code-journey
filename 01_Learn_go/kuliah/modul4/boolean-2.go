@@ -2,6 +2,7 @@ package main
 import "fmt"
 func main() {
 	var bil,d1,d2,d3 int
+	fmt.Print("Masukkan angka: ")
 	fmt.Scan(&bil)
 
 	d1 = bil / 100
