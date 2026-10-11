@@ -6,7 +6,6 @@ func main() {
 	for j = 1; j <= n; j++{
 		fmt.Scan(&x)
 		jrk = x*5
-		fmt.Println("jarak lari adalah: ", j)
 		fmt.Println("jarak renang adalah: ", jrk)
 	}
 	fmt.Println("Selesai")
