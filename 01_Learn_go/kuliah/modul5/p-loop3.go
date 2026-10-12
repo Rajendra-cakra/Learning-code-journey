@@ -8,7 +8,9 @@ func main() {
 
 	for j := 1; j <= n2; j++ {
 		hasil += n1
+		fmt.Println(n1, "+ ")
 	}
 
-	fmt.Println(hasil)
+	fmt.Println("\n=",hasil)
+
 }
