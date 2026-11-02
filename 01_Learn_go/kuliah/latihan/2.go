@@ -2,7 +2,7 @@ package main
 import "fmt"
 func main() {
 	var n, r, t float64
-	
+	fmt.Print("masulan nilai n, r, t: ")
 	fmt.Scan(&n,&r,&t)
 
 	luas := (2*3.14*r*(r+t))/(n) + 2*r*t
